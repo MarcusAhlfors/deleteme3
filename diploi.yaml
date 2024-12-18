@@ -1,0 +1,9 @@
+diploiVersion: v1.0
+components:
+  - name: Next.js
+    identifier: next
+    package: https://github.com/diploi/component-nextjs#main
+addons:
+  - name: PostgreSQL
+    identifier: postgres
+    package: https://github.com/diploi/addon-postgres#main
